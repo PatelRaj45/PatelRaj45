@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Raj+Patel+👋;Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+DSA;Building+Real-World+AI+Systems;350%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Raj+Patel+%F0%9F%91%8B;Machine+Learning+Engineer;AI+%7C+Deep+Learning+%7C+DSA;Building+Real-World+AI+Systems;350%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -116,7 +116,7 @@ const raj = {
   <a href="https://www.linkedin.com/in/raj-patel-598559274/">
     <img src="https://img.shields.io/badge/LinkedIn-Raj%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rajbhaveshpatel2005@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#b6c4d7dcd4ded7c0d3c5dec6d7c2d3da84868683f6d1dbd7dfda98d5d9db">
     <img src="https://img.shields.io/badge/Gmail-rajbhaveshpatel2005-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://huggingface.co/RajPatel45">
@@ -127,5 +127,4 @@ const raj = {
 ---
 
 <p align="center">
-  <i>"Build projects that prove your skills — not just list them."</i>
-</p>
+  <i>"Build projects that
