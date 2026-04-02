@@ -127,4 +127,5 @@ const raj = {
 ---
 
 <p align="center">
-  <i>"Build projects that
+  <i>"Build projects that prove your skills — not just list them."</i>
+</p>
