@@ -27,27 +27,43 @@ const raj = {
 
 ## 🛠️ Tech Stack
 
+<br/>
+
 ### 💻 Languages
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
+<br/>
+
 ### 🤖 AI / ML
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+  &nbsp;
   <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
+<br/>
+
 ### 📊 Tools
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,git,github" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 </p>
 
+<br/>
+
 ### 🌐 Deployment
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=streamlit" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
 </p>
 
@@ -56,7 +72,7 @@ const raj = {
 ## 🚀 Featured Projects
 
 | # | Project | Description | Tech | Accuracy | Demo |
-|---|---------|-------------|------|----------|------|
+|:---:|---------|-------------|------|:--------:|:----:|
 | 🍔 | **Food Recognition AI** | 101-class food image classification using Vision Transformer | `PyTorch` `ViT` `Gradio` | **70.78%** | [🔗 Live Demo](https://huggingface.co/spaces/RajPatel45/Food_Vision_Vit_Full_101) |
 | 🤟 | **ASL Alphabet Vision** | American Sign Language gesture recognition (29 classes) | `PyTorch` `ResNet50` `Gradio` | **89.29%** | [🔗 Live Demo](https://huggingface.co/spaces/RajPatel45/ASL_ResNet50) |
 | 🏥 | **Doctor Appointment Agent** | Automated appointment booking workflow system | `n8n` `AI Agent` | — | [🔗 Demo Video](https://drive.google.com/file/d/1jxf5tXLw3-3boNo0EvuJSRmjJgxGqWmn/view) |
@@ -79,7 +95,7 @@ const raj = {
 ## 🏆 Achievements
 
 | 🏅 Achievement | Link |
-|----------------|------|
+|----------------|:----:|
 | 🥈 NPTEL Python for Data Science — **Top 5%** | [View Certificate](https://drive.google.com/file/d/1OujG0c2btEcjqlyG-1NhdwIcQGPh2GUS/view) |
 | 💼 JP Morgan Chase Software Engineering Virtual Simulation | [View Certificate](https://drive.google.com/file/d/1CTLBHMh-uUm6SmYqgNuZKJaEru6VMEGp/view) |
 
@@ -87,10 +103,11 @@ const raj = {
 
 ## 💻 Coding Profiles
 
-<p>
+<p align="center">
   <a href="https://codolio.com/profile/rajpatel">
     <img src="https://img.shields.io/badge/Codolio-Profile-00C4CC?style=for-the-badge&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://takeuforward.org/profile/raj_patel_">
     <img src="https://img.shields.io/badge/TakeUForward-Profile-orange?style=for-the-badge&logoColor=white"/>
   </a>
@@ -102,7 +119,12 @@ const raj = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PatelRaj45&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelRaj45&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelRaj45&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </p>
 
 ---
@@ -113,18 +135,25 @@ const raj = {
   <a href="https://github.com/PatelRaj45">
     <img src="https://img.shields.io/badge/GitHub-PatelRaj45-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/raj-patel-598559274/">
     <img src="https://img.shields.io/badge/LinkedIn-Raj%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#b6c4d7dcd4ded7c0d3c5dec6d7c2d3da84868683f6d1dbd7dfda98d5d9db">
+  &nbsp;
+  <a href="mailto:rajbhaveshpatel2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rajbhaveshpatel2005-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://huggingface.co/RajPatel45">
     <img src="https://img.shields.io/badge/HuggingFace-RajPatel45-FFB000?style=for-the-badge&logo=huggingface&logoColor=black" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&animation=twinkling" />
+</p>
 
 <p align="center">
   <i>"Build projects that prove your skills — not just list them."</i>
