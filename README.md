@@ -46,7 +46,7 @@ const raj = {
 </p>
 
 <br/>
-//Tools
+//Tool
 ### 📊 Tools
 
 <p align="center">
