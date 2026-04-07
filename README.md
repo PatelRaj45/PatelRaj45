@@ -47,7 +47,7 @@ const raj = {
 
 <br/>
 //Tools
-### 📊 Tool
+### 📊 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy,mysql,git,github" />
